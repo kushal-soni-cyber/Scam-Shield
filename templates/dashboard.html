@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card">
+    <div class="card-header bg-info text-white">
+        <h5><i class="fas fa-chart-line me-2"></i> Live Scam Dashboard</h5>
+    </div>
+    <div class="card-body">
+        <div class="alert alert-info small">
+            Updates every 5 seconds. Total classifications: {{ total_classifications }} | 
+            Scam rate: {{ scam_rate|round(1) }}% | Avg confidence: {{ avg_conf|round(1) }}%
+        </div>
+        
+        <div class="row">
+            <div class="col-lg-6">
+                <h6>Scam vs Legitimate</h6>
+                <canvas id="pieChart" class="chart-container"></canvas>
+            </div>
+            <div class="col-lg-6">
+                <h6>Scams per Day</h6>
+                <canvas id="barChart" class="chart-container"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const pieCtx = document.getElementById('pieChart').getContext('2d');
+    const pieChart = new Chart(pieCtx, {
+        type: 'pie',
+        data: {
+            labels: ['Scam', 'Legitimate'],
+            datasets: [{
+                data: {{ pie }},
+                backgroundColor: ['#dc3545', '#198754']
+            }]
+        },
+        options: { responsive: true, plugins: { legend: { position: 'bottom' } } }
+    });
+
+    const barCtx = document.getElementById('barChart').getContext('2d');
+    const barChart = new Chart(barCtx, {
+        type: 'bar',
+        data: {
+            labels: {{ bar_labels | tojson }},
+            datasets: [{
+                label: 'Scams per Day',
+                data: {{ bar_data }},
+                backgroundColor: '#ffc107'
+            }]
+        },
+        options: { responsive: true, scales: { y: { beginAtZero: true } } }
+    });
+
+    // Live update every 5 seconds (fast & lightweight)
+    setInterval(async () => {
+        try {
+            const response = await fetch('/update_data');
+            const data = await response.json();
+            
+            pieChart.data.datasets[0].data = data.pie;
+            pieChart.update();
+            
+            barChart.data.labels = data.bar_labels;
+            barChart.data.datasets[0].data = data.bar_data;
+            barChart.update();
+        } catch (err) {
+            console.error('Live update failed:', err);
+        }
+    }, 5000);
+</script>
+{% endblock %}
