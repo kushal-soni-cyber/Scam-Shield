@@ -1,0 +1,164 @@
+2026-02-25 10:15:22 - Message: UPI KYC pending. Click link or account freeze | Classification: scam | Confidence: 94.67%
+2026-02-25 11:30:45 - Message: SBI: Rs 12000 credited to a/c XX789. Ref 123456 | Classification: legitimate | Confidence: 96.12%
+2026-02-25 14:05:10 - Message: CBI digital arrest warrant issued. Join video call now | Classification: scam | Confidence: 98.45%
+2026-02-25 16:20:33 - Message: PM Kisan Rs 2000 credited. Check official app | Classification: legitimate | Confidence: 89.34%
+2026-02-26 09:45:12 - Message: Aapka account block ho raha hai. KYC update karo | Classification: scam | Confidence: 92.78%
+2026-02-26 12:10:55 - Message: Amazon refund Rs 4500 processed successfully | Classification: legitimate | Confidence: 91.23%
+2026-02-26 15:30:40 - Message: ED notice: Transfer money to safe account | Classification: scam | Confidence: 97.56%
+2026-02-26 18:05:22 - Message: IRCTC: PNR 9876543210 departing 27-Feb | Classification: legitimate | Confidence: 88.90%
+2026-02-27 08:20:15 - Message: Won Rs 25 Lakh lottery. Pay fee Rs 5999 | Classification: scam | Confidence: 95.34%
+2026-02-27 10:55:30 - Message: GPay: Rs 300 cashback credited | Classification: legitimate | Confidence: 93.67%
+2026-02-27 13:40:05 - Message: Parcel held at customs. Pay duty Rs 4800 | Classification: scam | Confidence: 96.89%
+2026-02-27 16:15:50 - Message: SBI OTP 472819 for login. Do not share | Classification: legitimate | Confidence: 85.12%
+2026-02-27 19:30:25 - Message: Digital arrest by CBI. Your name in case | Classification: scam | Confidence: 99.01%
+2026-02-28 07:10:40 - Message: Electricity bill Rs 1650 paid successfully | Classification: legitimate | Confidence: 94.56%
+2026-02-28 09:45:15 - Message: Free laptop scheme 2026. Share Aadhaar | Classification: scam | Confidence: 93.78%
+2026-02-28 12:20:30 - Message: Paytm movie ticket booked. Show QR at entry | Classification: legitimate | Confidence: 90.45%
+2026-02-28 14:55:05 - Message: ED raid scheduled. Join video call | Classification: scam | Confidence: 97.23%
+2026-02-28 17:30:50 - Message: Amazon order #OD987654 delivered | Classification: legitimate | Confidence: 92.10%
+2026-02-28 20:05:35 - Message: Aapka SIM fraud me involved. Pay fine | Classification: scam | Confidence: 96.67%2026-02-28 00:23:25,711 - 127.0.0.1 - - [28/Feb/2026 00:23:25] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 00:23:26,774 - 127.0.0.1 - - [28/Feb/2026 00:23:26] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 00:23:27,278 - 127.0.0.1 - - [28/Feb/2026 00:23:27] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 00:23:27,534 - 127.0.0.1 - - [28/Feb/2026 00:23:27] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 00:45:53,006 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 00:45:53,006 - [33mPress CTRL+C to quit[0m
+2026-02-28 00:45:54,950 - 127.0.0.1 - - [28/Feb/2026 00:45:54] "GET / HTTP/1.1" 200 -
+2026-02-28 00:46:03,344 - 127.0.0.1 - - [28/Feb/2026 00:46:03] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 00:46:15,523 - 127.0.0.1 - - [28/Feb/2026 00:46:15] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 00:46:29,060 - 127.0.0.1 - - [28/Feb/2026 00:46:29] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 00:50:55,249 - 127.0.0.1 - - [28/Feb/2026 00:50:55] "GET / HTTP/1.1" 200 -
+2026-02-28 00:50:58,106 - Message: School scholarship Rs 10000 approved. Aapka bank details share karo OTP ke saath | Classification: scam | Confidence: 99.97%
+2026-02-28 00:50:58,107 - 127.0.0.1 - - [28/Feb/2026 00:50:58] "POST /classify HTTP/1.1" 200 -
+2026-02-28 00:51:11,447 - Message: GPay: Rs 200 cashback credited for transaction on 27-Feb | Classification: legitimate | Confidence: 99.98%
+2026-02-28 00:51:11,447 - 127.0.0.1 - - [28/Feb/2026 00:51:11] "POST /classify HTTP/1.1" 200 -
+2026-02-28 00:51:29,091 - 127.0.0.1 - - [28/Feb/2026 00:51:29] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 00:51:42,875 - 127.0.0.1 - - [28/Feb/2026 00:51:42] "GET /history HTTP/1.1" 200 -
+2026-02-28 00:51:43,659 - 127.0.0.1 - - [28/Feb/2026 00:51:43] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 00:51:49,411 - 127.0.0.1 - - [28/Feb/2026 00:51:49] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 00:51:56,102 - 127.0.0.1 - - [28/Feb/2026 00:51:56] "GET /about HTTP/1.1" 200 -
+2026-02-28 00:51:57,268 - 127.0.0.1 - - [28/Feb/2026 00:51:57] "GET /history HTTP/1.1" 200 -
+2026-02-28 00:52:21,139 - 127.0.0.1 - - [28/Feb/2026 00:52:21] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 01:08:09,952 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 01:08:09,952 - [33mPress CTRL+C to quit[0m
+2026-02-28 01:08:11,945 - 127.0.0.1 - - [28/Feb/2026 01:08:11] "GET / HTTP/1.1" 200 -
+2026-02-28 01:08:16,261 - 127.0.0.1 - - [28/Feb/2026 01:08:16] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 01:08:40,605 - 127.0.0.1 - - [28/Feb/2026 01:08:40] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 01:08:45,642 - 127.0.0.1 - - [28/Feb/2026 01:08:45] "GET /update_data HTTP/1.1" 200 -
+2026-02-28 01:08:50,642 - 127.0.0.1 - - [28/Feb/2026 01:08:50] "GET /update_data HTTP/1.1" 200 -
+2026-02-28 01:08:51,416 - 127.0.0.1 - - [28/Feb/2026 01:08:51] "GET /history HTTP/1.1" 200 -
+2026-02-28 01:08:52,619 - 127.0.0.1 - - [28/Feb/2026 01:08:52] "GET /about HTTP/1.1" 200 -
+2026-02-28 01:08:52,728 - 127.0.0.1 - - [28/Feb/2026 01:08:52] "GET /about HTTP/1.1" 200 -
+2026-02-28 01:08:54,986 - 127.0.0.1 - - [28/Feb/2026 01:08:54] "GET / HTTP/1.1" 200 -
+2026-02-28 01:09:06,726 - Message: you got a lottery claim | Classification: scam | Confidence: 99.78%
+2026-02-28 01:09:06,727 - 127.0.0.1 - - [28/Feb/2026 01:09:06] "POST /classify HTTP/1.1" 200 -
+2026-02-28 01:10:42,993 - 127.0.0.1 - - [28/Feb/2026 01:10:42] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 01:26:17,021 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 01:26:17,021 - [33mPress CTRL+C to quit[0m
+2026-02-28 01:26:18,664 - 127.0.0.1 - - [28/Feb/2026 01:26:18] "GET / HTTP/1.1" 200 -
+2026-02-28 01:26:37,411 - 127.0.0.1 - - [28/Feb/2026 01:26:37] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 01:26:43,335 - 127.0.0.1 - - [28/Feb/2026 01:26:43] "GET /history HTTP/1.1" 200 -
+2026-02-28 01:26:44,356 - 127.0.0.1 - - [28/Feb/2026 01:26:44] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 01:26:49,518 - 127.0.0.1 - - [28/Feb/2026 01:26:49] "GET /update_data HTTP/1.1" 200 -
+2026-02-28 01:26:54,519 - 127.0.0.1 - - [28/Feb/2026 01:26:54] "GET /update_data HTTP/1.1" 200 -
+2026-02-28 01:26:55,431 - 127.0.0.1 - - [28/Feb/2026 01:26:55] "GET /history HTTP/1.1" 200 -
+2026-02-28 01:26:55,992 - 127.0.0.1 - - [28/Feb/2026 01:26:55] "GET /about HTTP/1.1" 200 -
+2026-02-28 01:26:57,071 - 127.0.0.1 - - [28/Feb/2026 01:26:57] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 01:26:57,790 - 127.0.0.1 - - [28/Feb/2026 01:26:57] "GET / HTTP/1.1" 200 -
+2026-02-28 01:26:58,910 - 127.0.0.1 - - [28/Feb/2026 01:26:58] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 01:27:06,206 - 127.0.0.1 - - [28/Feb/2026 01:27:06] "GET / HTTP/1.1" 200 -
+2026-02-28 01:27:08,732 - Message: grtdd | Classification: legitimate | Confidence: 53.40%
+2026-02-28 01:27:08,732 - 127.0.0.1 - - [28/Feb/2026 01:27:08] "POST /classify HTTP/1.1" 200 -
+2026-02-28 02:04:16,551 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 02:04:16,552 - [33mPress CTRL+C to quit[0m
+2026-02-28 02:04:20,595 - 127.0.0.1 - - [28/Feb/2026 02:04:20] "GET / HTTP/1.1" 200 -
+2026-02-28 02:04:44,929 - 127.0.0.1 - - [28/Feb/2026 02:04:44] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 02:04:47,456 - 127.0.0.1 - - [28/Feb/2026 02:04:47] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 02:04:49,124 - 127.0.0.1 - - [28/Feb/2026 02:04:49] "GET /history HTTP/1.1" 200 -
+2026-02-28 02:04:49,266 - 127.0.0.1 - - [28/Feb/2026 02:04:49] "GET /history HTTP/1.1" 200 -
+2026-02-28 02:04:50,500 - 127.0.0.1 - - [28/Feb/2026 02:04:50] "GET /about HTTP/1.1" 200 -
+2026-02-28 02:04:51,337 - 127.0.0.1 - - [28/Feb/2026 02:04:51] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 02:05:13,290 - 127.0.0.1 - - [28/Feb/2026 02:05:13] "GET / HTTP/1.1" 200 -
+2026-02-28 02:05:19,926 - Message: aliens coming | Classification: legitimate | Confidence: 53.40%
+2026-02-28 02:05:19,927 - 127.0.0.1 - - [28/Feb/2026 02:05:19] "POST /classify HTTP/1.1" 200 -
+2026-02-28 02:05:24,674 - 127.0.0.1 - - [28/Feb/2026 02:05:24] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 02:05:24,793 - 127.0.0.1 - - [28/Feb/2026 02:05:24] "GET /fake_news HTTP/1.1" 200 -
+2026-02-28 02:05:26,665 - 127.0.0.1 - - [28/Feb/2026 02:05:26] "GET / HTTP/1.1" 200 -
+2026-02-28 02:16:36,826 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 02:16:36,826 - [33mPress CTRL+C to quit[0m
+2026-02-28 02:16:38,481 - 127.0.0.1 - - [28/Feb/2026 02:16:38] "GET / HTTP/1.1" 200 -
+2026-02-28 02:16:40,776 - 127.0.0.1 - - [28/Feb/2026 02:16:40] "[33mGET /fake_news HTTP/1.1[0m" 404 -
+2026-02-28 02:18:15,792 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 02:18:15,792 - [33mPress CTRL+C to quit[0m
+2026-02-28 02:18:17,429 - 127.0.0.1 - - [28/Feb/2026 02:18:17] "GET / HTTP/1.1" 200 -
+2026-02-28 02:18:19,735 - 127.0.0.1 - - [28/Feb/2026 02:18:19] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 02:18:24,861 - 127.0.0.1 - - [28/Feb/2026 02:18:24] "GET /update_data HTTP/1.1" 200 -
+2026-02-28 02:18:29,839 - 127.0.0.1 - - [28/Feb/2026 02:18:29] "GET /update_data HTTP/1.1" 200 -
+2026-02-28 02:18:33,951 - 127.0.0.1 - - [28/Feb/2026 02:18:33] "GET /history HTTP/1.1" 200 -
+2026-02-28 02:18:47,111 - 127.0.0.1 - - [28/Feb/2026 02:18:47] "GET / HTTP/1.1" 200 -
+2026-02-28 10:02:23,945 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 10:02:23,955 - [33mPress CTRL+C to quit[0m
+2026-02-28 10:02:25,945 - 127.0.0.1 - - [28/Feb/2026 10:02:25] "GET / HTTP/1.1" 200 -
+2026-02-28 10:02:26,666 - 127.0.0.1 - - [28/Feb/2026 10:02:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-28 10:02:49,511 - 127.0.0.1 - - [28/Feb/2026 10:02:49] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 10:02:50,338 - 127.0.0.1 - - [28/Feb/2026 10:02:50] "GET / HTTP/1.1" 200 -
+2026-02-28 10:28:10,387 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 10:28:10,388 - [33mPress CTRL+C to quit[0m
+2026-02-28 10:28:12,142 - 127.0.0.1 - - [28/Feb/2026 10:28:12] "GET / HTTP/1.1" 200 -
+2026-02-28 10:28:13,409 - 127.0.0.1 - - [28/Feb/2026 10:28:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-28 10:29:27,246 - 127.0.0.1 - - [28/Feb/2026 10:29:27] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 10:29:28,490 - 127.0.0.1 - - [28/Feb/2026 10:29:28] "GET / HTTP/1.1" 200 -
+2026-02-28 10:36:41,143 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 10:36:41,143 - [33mPress CTRL+C to quit[0m
+2026-02-28 10:36:42,859 - 127.0.0.1 - - [28/Feb/2026 10:36:42] "GET / HTTP/1.1" 200 -
+2026-02-28 10:36:49,627 - 127.0.0.1 - - [28/Feb/2026 10:36:49] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 10:36:54,982 - 127.0.0.1 - - [28/Feb/2026 10:36:54] "GET /update_data HTTP/1.1" 200 -
+2026-02-28 10:36:57,900 - 127.0.0.1 - - [28/Feb/2026 10:36:57] "GET /about HTTP/1.1" 200 -
+2026-02-28 10:37:01,054 - 127.0.0.1 - - [28/Feb/2026 10:37:01] "GET /history HTTP/1.1" 200 -
+2026-02-28 10:37:16,242 - 127.0.0.1 - - [28/Feb/2026 10:37:16] "GET / HTTP/1.1" 200 -
+2026-02-28 10:37:45,132 - 127.0.0.1 - - [28/Feb/2026 10:37:45] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 10:37:47,358 - 127.0.0.1 - - [28/Feb/2026 10:37:47] "GET /history HTTP/1.1" 200 -
+2026-02-28 10:37:48,954 - 127.0.0.1 - - [28/Feb/2026 10:37:48] "GET /about HTTP/1.1" 200 -
+2026-02-28 10:37:50,274 - 127.0.0.1 - - [28/Feb/2026 10:37:50] "GET /history HTTP/1.1" 200 -
+2026-02-28 10:37:52,986 - 127.0.0.1 - - [28/Feb/2026 10:37:52] "GET / HTTP/1.1" 200 -
+2026-02-28 10:37:54,290 - 127.0.0.1 - - [28/Feb/2026 10:37:54] "GET /history HTTP/1.1" 200 -
+2026-02-28 10:38:01,258 - 127.0.0.1 - - [28/Feb/2026 10:38:01] "GET / HTTP/1.1" 200 -
+2026-02-28 10:38:05,026 - 127.0.0.1 - - [28/Feb/2026 10:38:05] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 10:38:06,194 - 127.0.0.1 - - [28/Feb/2026 10:38:06] "GET /history HTTP/1.1" 200 -
+2026-02-28 10:38:07,226 - 127.0.0.1 - - [28/Feb/2026 10:38:07] "GET /about HTTP/1.1" 200 -
+2026-02-28 10:38:08,673 - 127.0.0.1 - - [28/Feb/2026 10:38:08] "GET / HTTP/1.1" 200 -
+2026-02-28 10:55:31,738 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 10:55:31,738 - [33mPress CTRL+C to quit[0m
+2026-02-28 10:55:33,531 - 127.0.0.1 - - [28/Feb/2026 10:55:33] "GET / HTTP/1.1" 200 -
+2026-02-28 10:55:41,258 - 127.0.0.1 - - [28/Feb/2026 10:55:41] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 10:55:42,424 - 127.0.0.1 - - [28/Feb/2026 10:55:42] "GET /history HTTP/1.1" 200 -
+2026-02-28 10:55:46,097 - 127.0.0.1 - - [28/Feb/2026 10:55:46] "GET / HTTP/1.1" 200 -
+2026-02-28 10:55:51,114 - 127.0.0.1 - - [28/Feb/2026 10:55:51] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 10:55:53,730 - 127.0.0.1 - - [28/Feb/2026 10:55:53] "GET /history HTTP/1.1" 200 -
+2026-02-28 10:55:55,459 - 127.0.0.1 - - [28/Feb/2026 10:55:55] "GET /about HTTP/1.1" 200 -
+2026-02-28 10:55:57,106 - 127.0.0.1 - - [28/Feb/2026 10:55:57] "GET / HTTP/1.1" 200 -
+2026-02-28 11:02:32,778 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 11:02:32,778 - [33mPress CTRL+C to quit[0m
+2026-02-28 11:02:34,830 - 127.0.0.1 - - [28/Feb/2026 11:02:34] "GET / HTTP/1.1" 200 -
+2026-02-28 11:02:40,363 - 127.0.0.1 - - [28/Feb/2026 11:02:40] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 11:02:41,886 - 127.0.0.1 - - [28/Feb/2026 11:02:41] "GET /history HTTP/1.1" 200 -
+2026-02-28 11:02:44,701 - 127.0.0.1 - - [28/Feb/2026 11:02:44] "GET /about HTTP/1.1" 200 -
+2026-02-28 11:02:46,466 - 127.0.0.1 - - [28/Feb/2026 11:02:46] "GET / HTTP/1.1" 200 -
+2026-02-28 11:05:44,677 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-28 11:05:44,677 - [33mPress CTRL+C to quit[0m
+2026-02-28 11:05:46,432 - 127.0.0.1 - - [28/Feb/2026 11:05:46] "GET / HTTP/1.1" 200 -
+2026-02-28 11:14:51,763 - 127.0.0.1 - - [28/Feb/2026 11:14:51] "GET /about HTTP/1.1" 200 -
+2026-02-28 11:22:04,304 - 127.0.0.1 - - [28/Feb/2026 11:22:04] "GET /dashboard HTTP/1.1" 200 -
+2026-02-28 11:22:08,867 - 127.0.0.1 - - [28/Feb/2026 11:22:08] "GET /history HTTP/1.1" 200 -
+2026-02-28 11:22:14,202 - 127.0.0.1 - - [28/Feb/2026 11:22:14] "GET / HTTP/1.1" 200 -
