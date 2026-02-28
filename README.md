@@ -1,9 +1,9 @@
 
 # ScamShield - AI Scam Message Detector
 
-**Capstone Project**  
-**AICTE Batch-7**  
-**IBM AI/ML Internship**
+- **Capstone Project**  
+- **AICTE Batch-7**  
+- **IBM AI/ML Internship**
 
 A smart, real-time web application that detects Indian scam messages such as UPI KYC fraud, Digital Arrest scams, Lottery/Refund scams, and Government scheme frauds using **TF-IDF + PyTorch Neural Network**.
 
