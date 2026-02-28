@@ -10,7 +10,9 @@ A smart, real-time web application that detects Indian scam messages such as UPI
 ---
 
 ## 🎯 Live Demo - 
-**Deployed Link:** [Visit Now](...)  
+**Deployed Link:** [Visit Now](https://scam-shield-7mhi.onrender.com/) 
+
+**Note** - Maybe deployed link wont work due to limitations of the Render free tier, so please proceed with the local deployment through terminal, all the instructions are provided in this documentation.
 
 ---
 
