@@ -1,5 +1,5 @@
 
-***ScamShield - AI Scam Message Detector***
+# ScamShield - AI Scam Message Detector
 
 **Capstone Project**  
 **AICTE Batch-7**  
@@ -9,12 +9,12 @@ A smart, real-time web application that detects Indian scam messages such as UPI
 
 ---
 
-🎯 Live Demo - 
+## 🎯 Live Demo - 
 **Deployed Link:** [Visit Now](...)  
 
 ---
 
-✨ Features
+## ✨ Features
 - Real-time classification of single or multiple messages
 - Clean professional interface
 - Batch processing (one message per line)
@@ -25,21 +25,21 @@ A smart, real-time web application that detects Indian scam messages such as UPI
 
 ---
 
-📊 Model Performance
+## 📊 Model Performance
 - **Test Accuracy:** **90.91%**
 - Trained for 50 epochs
 - Final Training Loss: **0.0034**
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 - **Backend:** Python, Flask, PyTorch, scikit-learn (TF-IDF)  
 - **Frontend:** Bootstrap 5, Font Awesome, jsPDF  
 - **Deployment:** Render.com (Free)
 
 ---
 
-🚀 **How to Run Locally**
+## 🚀 How to Run Locally
 
 1. Clone the repository
 ```bash
