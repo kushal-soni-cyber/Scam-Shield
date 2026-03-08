@@ -184,10 +184,10 @@ def cli_mode(model, vectorizer):
    
     def show_header(use_rich_local):
         if use_rich_local:
-            title = Text("🛡️ ScamShield Pro - Scam Detector 2026", style="bold cyan", justify="center")
+            title = Text("🛡️ ScamShield - Scam Detector 2026", style="bold cyan", justify="center")
             header = Panel(
                 title,
-                subtitle="TF-IDF + PyTorch • Confidence Scoring • Batch Analysis",
+                subtitle="TF-IDF + PyTorch • Confidence Scoring • Batch Analysi",
                 border_style="bright_blue",
                 padding=(0, 1),
                 width=min(width, 100),
@@ -196,7 +196,7 @@ def cli_mode(model, vectorizer):
             console.print(header)
         else:
             print("\n" + "="*50)
-            print("🛡️ SCAMSHIELD PRO - SCAM DETECTOR 2026")
+            print("🛡️ SCAMSHIELD - SCAM DETECTOR 2026")
             print("TF-IDF + PyTorch • Confidence Scoring • Batch Analysis")
             print("="*50 + "\n")
    
@@ -520,4 +520,5 @@ def main():
         print("Invalid selection. Run again and choose CLI or GUI.")
 
 if __name__ == "__main__":
+
     main()
