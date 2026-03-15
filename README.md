@@ -45,8 +45,8 @@ A smart, real-time web application that detects Indian scam messages such as UPI
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/scamshield-pro.git
-cd scamshield-pro
+git clone https://github.com/kushal-soni-cyber/Scam-Shield.git
+cd Scam-Shield
 ```
 
 2. Install dependencies
